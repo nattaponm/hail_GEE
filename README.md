@@ -12,9 +12,12 @@ simulateSoundingFromERA5ForPlottingskewT.ipynb
 1Plot thermodynamic diagram from simulated sounding.ipynb
 2classifyHydrometeor4filesIn1hour.ipynb
 3Aggregate classified hydrometeor from 15 min to 1 hour product.ipynb
-JavaScript-Based Spatial Impact Analysis of Hailstorms in GEE:
 
+JavaScript-Based Spatial Impact Analysis of Hailstorms in GEE:
 4GEE_hail_impact_assessment.js
+you can try GEE code : https://code.earthengine.google.com/ce13b5ba25d59c3de18ae9d62b9f8072
+
+
 This research project aims to contribute valuable insights into hailstorm monitoring and impact assessment through the utilization of state-of-the-art radar technology and geospatial analysis tools.
 If you have any question, please feel free to contact me Dr.Nattapon Mahavik, Naresuan University, Thailand by nattaponm@nu.ac.th
 
@@ -26,5 +29,5 @@ If you have any question, please feel free to contact me Dr.Nattapon Mahavik, Na
 •	2classifyHydrometeor4filesIn1hour.ipynb
 •	3Aggregate classified hydrometeor from 15 min to 1 hour product.ipynb
 2.การพัฒนากระบวนการวิเคราะห์ผลกระทบลูกเห็บเชิงพื้นที่ใน GEE ในภาษา JavaScript
-•	4GEE_hail_impact_assessment.js
+•	4GEE_hail_impact_assessment.js ลองเล่น code : https://code.earthengine.google.com/ce13b5ba25d59c3de18ae9d62b9f8072****
 หากมีคำถามหรือข้อสงสัยประการใด สามารถติดต่อ ผศ.ดร.นัฐพล มหาวิค มหาวิทยาลัยนเรศวร nattaponm@nu.ac.th
